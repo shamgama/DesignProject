@@ -28,6 +28,8 @@
 @containerControlFontColor: #ffffff;
 @gridControlHeaderColor: #073763;
 @gridControlHeaderFontColor: #ffffff;
+
+
  
  
 
@@ -217,6 +219,11 @@ background: #FFFFFF;
 {
     background: #073763;
     border-radius: 30px;
+}
+
+.rowMainHeader &gt; div &gt; div &gt; button 
+{
+    color: #073763 !important;
 }
 
 .rowMainHeader &gt; div &gt; div &gt; button 
